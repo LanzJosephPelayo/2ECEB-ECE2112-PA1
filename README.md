@@ -98,7 +98,7 @@ print(swap_bookends(["red", "green", "blue"])) --> ['blue', 'green', 'red']
 Thank you for reading!
 
 To see the main python program for Programming Assignment 1, click this link
-https://github.com/LanzJosephPelayo/2ECEB-ECE2112/blob/main/Programming%20Assignment%20%231.ipynb
+https://github.com/LanzJosephPelayo/2ECEB-ECE2112-PA1/blob/main/Programming%20Assignment%20%231.ipynb
 and download the raw file. Open on Jupyter Notebook, then run all cells.
 
 README file Version History:
